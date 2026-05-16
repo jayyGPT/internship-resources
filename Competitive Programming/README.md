@@ -30,7 +30,7 @@ The main advice I have to give to you is this should be your priority order:
 2. Always upsolve the problems you could not solve during the contest (at least the easiest one of them. For example, if you did ABC, ensure you do D after the contest). Try for atleast 20-30 more minutes, take hints from the tutorial if you have to, and then read the solution.
 3. Refer to tutorials often, as they may introduce you to a new perspective, or introduce a more efficient approach to a problem.
 4. What you can do is alongside learning new topics on your own, add the topics which you come across in contest tutorials while upsolving to your to-do list.
-5. For DSA, [Striver's sheet](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z) is the best resource to refer to. Avoid youtube playlists/videos for learning new topics as they are extremely time inefficient, and only use them when you are having a lot of trouble understanding a topic by reading.
+5. For DSA, [Striver's sheet](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z), [Striver's sheet (links to leetcode)](https://codolio.com/question-tracker/sheet/striver-sde-sheet) is the best resource to refer to. Avoid youtube playlists/videos for learning new topics as they are extremely time inefficient, and only use them when you are having a lot of trouble understanding a topic by reading.
 6. Completely abstain from usage of AI or copilot autocomplete during contests, and only use as a last resort when solving problems (when you genuinely can't figure out where you are wrong). Googling syntax is fine but try to remember the syntax. You can also refer to cheat sheets I have inserted in the cheat sheets folder.
 7. DO NOT QUIT coding if you think you are good enough - especially towards the end of the summer. You WILL get out of touch and you WILL forget everything. Do at least 1 question every day to stay in touch, and make 1 page short notes for each topic.
 8. Avoid using templates. They will make you faster, but you will not have them in OAs and interviews, and they make you forget syntax. You can create sample codes for each algo to refer to, but type them yourself when doing a problem. You can use a barebones template (with fast input output syntax) for contests.
@@ -52,7 +52,7 @@ You should stay on leetcode for DSA practice and on cf for CP. Try to manage bot
 
 1. [CP Handbook](https://cses.fi/book/book.pdf)
 2. [USACO Guide](https://usaco.guide/) As good as CP Handbook
-3. [Striver's sheet](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
+3. [Striver's sheet](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z) , [Striver's sheet (links to leetcode)](https://codolio.com/question-tracker/sheet/striver-sde-sheet)
 4. [CP Algorithms](https://cp-algorithms.com/navigation.html) for algorithms reference
 5. [YKW Academy](https://youkn0wwho.academy/topic-list) for referring to a single topic in detail, contains everything, but do not pick random topics as not all are useful. Also the miscellaneous links in this website have some useful websites. You can complete the basics section completely.
 6. [CF Battleground](https://www.cfbattleground.live/) for 1v1ing a friend on codeforces, fun
